@@ -1,0 +1,281 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"met",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n\t<meta charset=\"utf-8\">\n\t<meta name=\"viewport\" content=\"width=device.width, intial.scale=1.0\">\n\t<link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">\n\t<link href=\"https://fonts.googleapis.com/css?family=Rubik\" rel=\"stylesheet\">\n\n\t<title>JM's Blog</title>\n</head>\n<body>\n<br><br>\n\t\n\t<img src=\"https://lh3.googleusercontent.com/-f9EAcdnb9Is/XZfq2RFAzcI/AAAAAAAAAoM/7kMBsY3vmcsFINsVUTTJgOwwk7gWwvBYgCEwYBhgL/w140-h140-p/2019-10-04.jpg\">\n\t<h2>Jimenez, Jade Maurice Pe</h2>\n\t<p class=\"foot\">Web Designer and Developer</p>\n<hr />\n\n<style>\t\n\tbody{background-color: azure;}\n</style>\n\n<section>\n<aside>\t\t\n<h3><a href=\"resume html2.html\">About Me?</h3></a>\t\n</aside>\n</section>\n\n<section>\n<aside>\t\n\t<h1>Educational Background</h1>\t\t\t\n\t\t<ul>\n\t\t\t<a href=\"http://www.uc-bcf.edu.ph/\">\n\t\t\t<li>College student in the University of the Cordilleras</li></a>\n\t\t\t<li>Bachelor of Science and Information Technology</li>\n\t\t\t<li>With Honors</li>\n\t\t\t\n\t\t</ul>\t\t\n</aside>\n</section>\n\n<section>\n<aside>\t\n\t<h1>Skills and Talents</h1>\n\t\t<ul>\n\t\t\t<li>Web Designing</li>\n\t\t\t<li>Cisco</li>\n\t\t\t<li>Instrumentalist</li>\n\t\t\t<li>Singer</li>\n\t\t\t\n</ul>\t\t\n</aside>\n</section>\n\n<section>\n<aside>\t\n\t<h1>Extracurriculars</h1>\t\t\n\t\t<ul>\t\n\t\t\t<li>Businessman</li>\n\t\t\t<li>Freelancer</li>\n\t\t\t<li>Music Club</li>\n\t\t</ul>\t\n</aside>\n</section>\n<hr />\n\n<footer>\n\t<dl>\t\n\t\t<dt class=\"head\">Contact Info:</p>\n\t\t</dt>\n\t\t<i class=\"fab fa-facebook-messenger\"></i>\ns\t\t<dt><a href=\"https://www.facebook.com/\">\n\t<dd>jimenezjade96@yahoo.com</dd></a>\t\t\t\t\n\t<dd>0915-345-3110</dd>\n\t</dl>\n</footer>\n</body>\n</html>",
+			"file": "/C/Users/s312user/Downloads/RESUME HTML.html",
+			"file_size": 1536,
+			"file_write_time": 132153207970154976,
+			"settings":
+			{
+				"buffer_size": 1580,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/s312user/Downloads/RESUME HTML2.html",
+			"settings":
+			{
+				"buffer_size": 571,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: IN",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/primus/Desktop/WebTech/WebTech2E/Resume/index.html",
+		"/C/Users/primus/Desktop/WebTech/TestProj/index.html",
+		"/C/Users/primus/Desktop/WebTech/TestProj/page1.html",
+		"/C/Users/primus/Desktop/WebTech/Resume01/index.html",
+		"/C/Users/primus/Desktop/WebTech/Resume01/eb.html",
+		"/C/Users/primu/Desktop/RepDemo01/Project1/resume02.html",
+		"/C/Users/primu/Desktop/ST3/sublime.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/s312user/Downloads/RESUME HTML.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1580,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1580,
+								1580
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/s312user/Downloads/RESUME HTML2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 571,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 31.0
+	},
+	"pinned_build_system": "",
+	"project": "Resume.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
